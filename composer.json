@@ -1,9 +1,8 @@
 {
-    "name": "app-vise/laravel-appstore-server-notifications",
+    "name": "cloudlog/laravel-appstore-server-notifications",
     "description": "Handling Appstore server to server notifications",
     "keywords": [
-        "app-vise",
-        "appvise",
+        "cloudlog",
         "laravel-appstore-server-to-server-notifications",
         "laravel-appstore-server-notifications",
         "laravel in app subscriptions",
