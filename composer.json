@@ -1,8 +1,8 @@
 {
-    "name": "cloudlog/laravel-appstore-server-notifications",
+    "name": "tmdan/laravel-appstore-server-notifications",
     "description": "Handling Appstore server to server notifications",
     "keywords": [
-        "cloudlog",
+        "tmdan",
         "laravel-appstore-server-to-server-notifications",
         "laravel-appstore-server-notifications",
         "laravel in app subscriptions",
