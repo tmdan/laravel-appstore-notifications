@@ -1,9 +1,8 @@
 {
-    "name": "app-vise/laravel-appstore-server-notifications",
+    "name": "cloudlog/laravel-appstore-server-notifications",
     "description": "Handling Appstore server to server notifications",
     "keywords": [
-        "app-vise",
-        "appvise",
+        "cloudlog",
         "laravel-appstore-server-to-server-notifications",
         "laravel-appstore-server-notifications",
         "laravel in app subscriptions",
@@ -20,7 +19,7 @@
     ],
     "require": {
         "php": "^7.1",
-        "illuminate/support": "^5.5|^6.0|^7.0",
+        "illuminate/support": "^5.5|^6.0|^7.0|^8.0",
         "bensampo/laravel-enum": "^1.0"
     },
     "require-dev": {

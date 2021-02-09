@@ -10,7 +10,7 @@
 You can install this package via composer
 
 ```bash
-composer require app-vise/laravel-appstore-server-notifications 
+composer require cloudlog/laravel-appstore-server-notifications 
  ```
 
 The service provider will register itself.
